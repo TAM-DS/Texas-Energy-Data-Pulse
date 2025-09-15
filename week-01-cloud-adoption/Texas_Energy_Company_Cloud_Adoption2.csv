@@ -1,0 +1,11 @@
+Company,Revenue_Billions,Cloud_Adoption_Percentage,Digital_Investment_Millions,Employee_Count,Sector
+ExxonMobil,413.7,23,2800,62000,Oil_Gas
+Chevron,200.5,31,1950,43000,Oil_Gas
+ConocoPhillips,71.2,45,980,9900,Oil_Gas
+Shell_US,89.1,52,1680,15000,Oil_Gas
+Halliburton,15.3,67,450,38000,Services
+Baker_Hughes,20.5,71,890,51000,Services
+SLB,28.1,58,1120,95000,Services
+Kinder_Morgan,16.2,38,320,11000,Pipeline
+Enterprise_Products,13.8,29,280,7000,Pipeline
+Phillips_66,111.8,34,1450,14000,Refining
