@@ -25,7 +25,7 @@ Every Tuesday and Friday for 12 weeks, I analyze key metrics from major Texas en
 
 | Week | Topic | Key Insight | Date |
 |------|-------|-------------|------|
-| 1 | [Cloud Adoption Rates](./week-01-cloud-adoption/) [Tableau]() | 40% tech sector gap = $18B opportunity | Sep 2025 |
+| 1 | [Cloud Adoption Rates](./week-01-cloud-adoption/) [Tableau](https://tinyurl.com/449ef3cs) | 40% tech sector gap = $18B opportunity | Sep 2025 |
 | 2 | [Texas Cyber Weakness](./week-01-cloud-adoption/) [Tableau](https://tinyurl.com/4acm5ja6) | Power Grid Most Vulnerable: 28 Attacks, 36 Hours Down, $89M Lost | Sep 2025 |
 | 3 | Coming Soon... | | |
 
