@@ -33,7 +33,7 @@ Every Tuesday and Friday for 12 weeks, I analyze key metrics from major Texas en
 
 **For Each Analysis:**
 - 📊 Interactive visualizations and charts
-- 📈 Raw datasets (CSV format)
+- 📈 Self-compiled raw datasets (CSV format)
 - 📝 Detailed analytical findings
 - 🌐 Social media content used for promotion
 - 💡 Strategic implications for industry leaders
@@ -90,13 +90,13 @@ Found insights valuable? Let's discuss:
 - **LinkedIn:** [Share your takeaways from the analysis]
 - **Twitter/X:** Use #TexasEnergyData to join the conversation
 - **GitHub Issues:** Technical questions or data requests
-- **Professional Networks:** Forward to colleagues in energy sector
+- **Professional Networks:** Forward to colleagues in the energy sector
 
 ## 📈 Impact Tracking
 
 **Series Goals:**
 - Influence 50+ energy industry decisions through data insights
-- Build comprehensive Texas energy transformation database
+- Build a comprehensive Texas energy transformation database
 - Establish data-driven dialogue around industry evolution
 - Connect 1,000+ energy professionals through shared insights
 
@@ -104,6 +104,6 @@ Found insights valuable? Let's discuss:
 
 *This repository represents ongoing research into the digital transformation of America's energy capital. Each analysis aims to provide actionable intelligence for industry leaders navigating unprecedented change.*
 
-**Next Update:** [Date] | **Series Completion:** December 2025
+**Next Update:** [September 23 & 26] | **Series Completion:** December 2025
 
 ⭐ **Star this repo** to follow the complete 24-analysis journey
