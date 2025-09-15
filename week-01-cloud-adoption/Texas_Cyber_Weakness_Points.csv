@@ -1,0 +1,7 @@
+Infrastructure_Type,Vulnerability_Score,Attack_Incidents_2024,Average_Downtime_Hours,Financial_Impact_Millions,Security_Investment_Millions,Risk_Level
+Oil_Refineries,7.2,15,18,45.8,12.3,High
+Natural_Gas_Plants,6.8,12,14,38.2,9.8,High
+Pipelines,8.1,22,24,67.4,15.2,Critical
+Wind_Farms,5.9,8,12,22.1,6.4,Medium
+Solar_Facilities,5.4,6,8,18.3,5.1,Medium
+Power_Grid,8.7,28,36,89.7,28.4,Critical
