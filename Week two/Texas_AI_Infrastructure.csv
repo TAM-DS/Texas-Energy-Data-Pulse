@@ -1,0 +1,11 @@
+Industry,Company_Count,Decision_Making_Improvement_Percent,Manual_Process_Reduction_Percent,Customer_Satisfaction_Improvement_Percent,Average_Cost_Savings_Millions,Primary_Use_Case,Implementation_Status,Investment_Level_Millions
+Energy,85,45,65,28,3.2,Predictive Maintenance,Leading,125.4
+Financial_Services,42,38,58,22,2.1,Fraud Detection,Advanced,78.9
+Healthcare,67,35,55,30,1.8,Patient Insights,Moderate,45.3
+Legal,28,42,62,20,2.7,Contract Analysis,Early,18.2
+Manufacturing,73,40,60,25,2.4,Quality Control,Moderate,67.8
+Retail,56,48,70,35,1.9,Customer Analytics,Advanced,42.1
+Real_Estate,34,30,45,18,1.5,Property Analysis,Early,12.7
+Technology,89,52,75,40,3.8,Process Automation,Leading,156.3
+Oil_Gas,23,50,70,25,4.1,Operations Optimization,Leading,89.6
+Transportation,31,35,50,22,2.0,Route Optimization,Moderate,25.4
