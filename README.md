@@ -69,11 +69,14 @@ This series is designed for:
 ## 🚀 Key Themes to Watch
 
 Over the 12-week series, expect deep dives into:
-- **Digital Infrastructure:** Cloud adoption, cybersecurity, data analytics
-- **Workforce Transformation:** Skills gaps, remote work, automation
-- **Operational Excellence:** Efficiency metrics, cost optimization
-- **Strategic Positioning:** M&A activity, market share evolution
-- **Sustainability Integration:** ESG metrics, renewable investments
+
+- **Infrastructure Resilience** — grid modernization, cooling systems, and critical facility stress tests  
+- **Cloud & Digital Backbone** — adoption, efficiency, cybersecurity, and AI-driven cloud economics  
+- **Data Centers** — water, power, and efficiency trade-offs shaping hyperscale growth in Texas  
+- **AI & Automation** — agentic AI, predictive analytics, and ROI-driven deployment across energy and industry  
+- **Energy Transformation** — traditional vs. renewable performance, hydrogen pilots, and petrochemical adaptation  
+- **Space & Frontier Tech** — satellite data, aerospace investment, and space-energy convergence in Texas  
+
 
 ## 💬 Connect & Discuss
 
