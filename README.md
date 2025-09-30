@@ -19,8 +19,9 @@ Every Tuesday and Friday for 12 weeks, I analyze key metrics from major Texas en
 | 3    | [Texas Agentic AI Automation](./weektwo/) [Tableau](https://tinyurl.com/yed76nx5) | AI implementation ROI across energy sectors reveals Oil & Gas leads with $4.1M average returns per use case| Sep 2025 |
 | 4    | [Texas Energy and Sustainability](./weektwo) [Tableau](https://tinyurl.com/ms8skm2b) |Sustainability isn't just good stewardship, it's a smart business strategy with BP America leading at 21.3% YTD | Sep 2025 |
 | 5    | [Texas Water Stress & Drought Risk](./weekthree) [Tableau](https://tinyurl.com/cf8upsfz) | Hydrogen, petrochemical, and coal facilities face the steepest operational risks as cooling inefficiencies collide with rising drought pressures | Sept 2025 |
+| 6    | [Texas Data Centers — AI’s Hidden Energy Cost](./weekthree) [Tableau]()                  |AI = Energy Hunger: Training workloads drive 70% higher intensity per sqft vs. traditional centers.| Sept 2025
 *Full 24-chart series completing December 2025*
-
+ 
 ## 🔍 What You'll Find Here
 
 **For Each Analysis:**
