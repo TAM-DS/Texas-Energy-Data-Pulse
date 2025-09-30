@@ -1,0 +1,11 @@
+Facility_Name,Location,Facility_Type,Power_Capacity_MW,Annual_Consumption_GWh,Energy_Intensity_kWh_per_sqft,Grid_Utilization_Percent,Renewable_Energy_Percent,Cooling_Method
+Microsoft ,San Antonio,Hyperscale,65,420,180,78,35,Air_Cooling
+Oracle ,Austin,AI_Training,120,890,285,85,25,Liquid_Cooling
+AWS ,Dallas,Traditional_Cloud,85,580,165,72,42,Hybrid_Cooling
+Google ,Houston,AI_Inference,95,675,220,81,48,Liquid_Cooling
+Meta ,Austin,Mixed_Workload,75,510,175,69,38,Air_Cooling
+OpenAI_Stargate ,Abilene,AI_Training,180,1350,320,92,18,Liquid_Cooling
+IBM ,San Antonio,Enterprise,45,285,145,65,55,Air_Cooling
+NVIDIA ,Austin,AI_Training,55,425,295,88,32,Liquid_Cooling
+Dell ,Round Rock,Traditional,35,220,125,58,62,Air_Cooling
+Oracle ,Houston,Database,68,445,155,74,28,Hybrid_Cooling
