@@ -20,6 +20,8 @@ Every Tuesday and Friday for 12 weeks, I analyze key metrics from major Texas en
 | 4    | [Texas Energy and Sustainability](./weektwo) [Tableau](https://tinyurl.com/ms8skm2b) |Sustainability isn't just good stewardship, it's a smart business strategy with BP America leading at 21.3% YTD | Sep 2025 |
 | 5    | [Texas Water Stress & Drought Risk](./weekthree) [Tableau](https://tinyurl.com/cf8upsfz) | Hydrogen, petrochemical, and coal facilities face the steepest operational risks as cooling inefficiencies collide with rising drought pressures | Sept 2025 |
 | 6    | [Texas Data Centers — AI and Petabyte Scale.](./weekthree) [Tableau](https://tinyurl.com/mry3bm5x) |Newer AI facilities are MORE sustainable than legacy infrastructure. This contradicts the narrative that AI expansion = environmental disaster| Sept 2025|
+| 7    | [The $16B Secret Nobody's Talking About](./weekfour) [Tableau](https://lnkd.in/g3idayiW) |I mapped $48B in Texas VC funding by geography and sector. The result? South Padre Island is getting MORE venture capital than most major metros.| Oct 2025|
+| 8    | [The real GDP impact?](./weekfour) [Tableau](https://lnkd.in/g56aBYGS) |It's coming from companies integrating AI into EXISTING infrastructure at scale.| Oct 2025|
 
 *Full 24-chart series completing December 2025*
  
