@@ -1,0 +1,106 @@
+Year,Quarter,City,Region,Sector,Subsector,Company,Metric_Type,Metric_Value,Unit,Growth_Rate_YoY,Data_Center_Count,Data_Center_Capacity_MW,GDP_Contribution_Millions,AI_Employment,VC_Funding_Millions,Renewable_Energy_Percent,Grid_Utilization_Percent,Notes
+2023,Q1,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,85,MW,15.2,2,85,1250,3400,125,45,72,Expansion phase
+2023,Q1,Austin,Central Texas,Data Centers,Hyperscale,Oracle,Data Center Capacity,120,MW,22.5,3,120,890,1200,0,38,68,Cloud infrastructure
+2023,Q1,Austin,Central Texas,Renewables,Solar,Tesla Energy,Renewable Generation,450,MW,18.3,0,0,340,580,85,100,0,Solar farm operations
+2023,Q1,Dallas,North Texas,AI Industry,AI Infrastructure,Microsoft,Data Center Capacity,95,MW,12.8,2,95,2100,4800,210,42,81,Azure expansion
+2023,Q1,Dallas,North Texas,Financial Tech,AI Trading,Multiple Players,AI Employment,0,Count,25.4,0,0,1850,2900,340,35,0,Fintech AI adoption
+2023,Q1,San Antonio,South Texas,Data Centers,Enterprise,Microsoft,Data Center Capacity,45,MW,8.5,1,45,650,890,45,52,65,Military tech focus
+2023,Q1,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,2800,MW,14.2,0,0,580,420,0,100,0,Wind farm concentration
+2023,Q1,South Padre Island,Coastal Texas,Energy Sectors,Rocket Fuel Production,SpaceX,Industrial Capacity,25,MW,35.8,0,25,180,650,450,28,58,Starbase operations
+2023,Q1,Houston,Gulf Coast,Energy Sectors,Energy Tech,Multiple Players,GDP Contribution,0,MW,11.2,0,0,8500,5600,680,32,0,Oil & gas AI integration
+2023,Q2,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,92,MW,18.7,2,92,1420,3850,156,48,74,Q2 scaling
+2023,Q2,Austin,Central Texas,Data Centers,Hyperscale,Oracle,Data Center Capacity,135,MW,25.1,3,135,1050,1340,0,41,70,Database expansion
+2023,Q2,Austin,Central Texas,Financial Tech,Payment Processing,Multiple Players,AI Employment,0,Count,22.8,0,0,890,1850,125,0,0,AI fraud detection
+2023,Q2,Dallas,North Texas,AI Industry,AI Infrastructure,Microsoft,Data Center Capacity,110,MW,16.2,2,110,2380,5200,245,45,79,Continued growth
+2023,Q2,Dallas,North Texas,Data Centers,Colocation,Multiple Operators,Data Center Capacity,88,MW,19.5,4,88,720,980,0,38,76,Colo market expansion
+2023,Q2,San Antonio,South Texas,AI Industry,Defense AI,Multiple Players,AI Employment,0,Count,15.8,0,0,580,1150,89,0,0,Military AI contracts
+2023,Q2,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,2950,MW,15.8,0,0,620,445,0,100,0,Seasonal peak
+2023,Q2,South Padre Island,Coastal Texas,Energy Sectors,Aerospace,SpaceX,AI Employment,0,Count,42.3,0,0,215,780,520,0,0,Starship development
+2023,Q2,Houston,Gulf Coast,AI Industry,Energy AI,Multiple Players,AI Employment,0,Count,28.5,0,0,0,6200,485,0,0,Predictive maintenance AI
+2023,Q3,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,98,MW,21.3,3,98,1580,4200,189,52,76,Major facility addition
+2023,Q3,Austin,Central Texas,Data Centers,Hyperscale,Meta,Data Center Capacity,75,MW,0,2,75,980,1100,0,39,69,New Meta presence
+2023,Q3,Austin,Central Texas,Renewables,Solar,Tesla Energy,Renewable Generation,520,MW,22.4,0,0,395,640,102,100,0,Gigafactory solar
+2023,Q3,Dallas,North Texas,AI Industry,AI Infrastructure,Nvidia,Data Center Capacity,55,MW,0,1,55,1250,2100,0,48,88,AI chip testing facility
+2023,Q3,Dallas,North Texas,Financial Tech,AI Trading,Multiple Players,GDP Contribution,0,MW,31.2,0,0,2150,3400,425,0,0,Algorithmic trading boom
+2023,Q3,San Antonio,South Texas,Data Centers,Edge Computing,Multiple Operators,Data Center Capacity,32,MW,18.9,2,32,420,650,38,45,68,Edge deployment
+2023,Q3,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,3100,MW,17.2,0,0,685,468,0,100,0,Capacity additions
+2023,Q3,South Padre Island,Coastal Texas,AI Industry,Aerospace AI,SpaceX,Data Center Capacity,28,MW,12.0,1,28,245,890,580,35,62,Flight control AI
+2023,Q3,Houston,Gulf Coast,Energy Sectors,Energy Tech,Multiple Players,GDP Contribution,0,MW,14.8,0,0,9200,6800,756,35,0,Energy transition tech
+2023,Q4,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,105,MW,23.5,3,105,1720,4650,215,55,78,Year-end expansion
+2023,Q4,Austin,Central Texas,Data Centers,Hyperscale,Oracle,Data Center Capacity,155,MW,29.2,4,155,1240,1520,0,44,72,Cloud Gen2 expansion
+2023,Q4,Dallas,North Texas,AI Industry,AI Infrastructure,Microsoft,Data Center Capacity,125,MW,19.8,3,125,2680,5800,285,48,82,Holiday capacity prep
+2023,Q4,Dallas,North Texas,Data Centers,Hyperscale,Meta,Data Center Capacity,68,MW,0,1,68,890,950,0,35,74,Meta AI infrastructure
+2023,Q4,San Antonio,South Texas,AI Industry,Defense AI,Multiple Players,GDP Contribution,0,MW,24.5,0,0,720,1380,124,0,0,Defense contracts awarded
+2023,Q4,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,3250,MW,18.5,0,0,725,485,0,100,0,Winter generation
+2023,Q4,South Padre Island,Coastal Texas,Energy Sectors,Aerospace,SpaceX,GDP Contribution,0,MW,38.7,0,0,285,980,645,0,0,Successful launches
+2023,Q4,Houston,Gulf Coast,AI Industry,Energy AI,Multiple Players,VC Funding,0,MW,0,0,0,0,7200,892,0,0,Major funding round
+2024,Q1,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,118,MW,38.8,4,118,1950,5200,268,58,80,Major scaling initiative
+2024,Q1,Austin,Central Texas,Data Centers,Hyperscale,Oracle,Data Center Capacity,175,MW,45.8,5,175,1480,1780,0,48,74,Exadata expansion
+2024,Q1,Austin,Central Texas,Renewables,Solar,Tesla Energy,Renewable Generation,620,MW,37.8,0,0,465,720,145,100,0,Megapack deployment
+2024,Q1,Dallas,North Texas,AI Industry,AI Infrastructure,Microsoft,Data Center Capacity,145,MW,52.6,4,145,3120,6800,358,52,84,Azure AI regions
+2024,Q1,Dallas,North Texas,AI Industry,GPU Computing,Nvidia,Data Center Capacity,78,MW,41.8,2,78,1680,2850,0,55,92,DGX systems
+2024,Q1,San Antonio,South Texas,Data Centers,Enterprise,Microsoft,Data Center Capacity,58,MW,28.9,2,58,850,1120,68,58,72,Government cloud
+2024,Q1,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,3580,MW,27.9,0,0,845,520,0,100,0,Capacity milestone
+2024,Q1,South Padre Island,Coastal Texas,Energy Sectors,Rocket Fuel Production,SpaceX,Industrial Capacity,32,MW,28.0,1,32,340,1150,785,32,64,Starship fuel production
+2024,Q1,Houston,Gulf Coast,Energy Sectors,Energy Tech,Multiple Players,GDP Contribution,0,MW,18.8,0,0,10200,8200,1024,38,0,AI in oil & gas
+2024,Q2,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,142,MW,54.3,5,142,2280,5950,342,62,82,GPT-5 infrastructure
+2024,Q2,Austin,Central Texas,Data Centers,Hyperscale,Oracle,Data Center Capacity,195,MW,44.4,6,195,1720,2050,0,52,76,Multi-cloud strategy
+2024,Q2,Austin,Central Texas,Financial Tech,Crypto Mining,Multiple Players,Data Center Capacity,45,MW,0,3,45,380,850,124,42,85,Bitcoin mining ops
+2024,Q2,Dallas,North Texas,AI Industry,AI Infrastructure,Microsoft,Data Center Capacity,168,MW,52.7,5,168,3580,7600,425,55,86,ChatGPT enterprise
+2024,Q2,Dallas,North Texas,Data Centers,Hyperscale,Meta,Data Center Capacity,95,MW,8.0,2,95,1280,1350,0,42,78,Llama infrastructure
+2024,Q2,San Antonio,South Texas,AI Industry,Defense AI,Multiple Players,AI Employment,0,Count,42.8,0,0,0,1680,158,0,0,Autonomous systems
+2024,Q2,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,3750,MW,27.1,0,0,920,548,0,100,0,Record generation
+2024,Q2,South Padre Island,Coastal Texas,AI Industry,Aerospace AI,SpaceX,AI Employment,0,Count,48.7,0,0,0,1350,912,0,0,Autonomous landing AI
+2024,Q2,Houston,Gulf Coast,AI Industry,Energy AI,Multiple Players,AI Employment,0,Count,35.5,0,0,0,9500,1248,0,0,Subsurface imaging AI
+2024,Q3,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,165,MW,68.4,6,165,2650,6850,425,68,84,Compute cluster expansion
+2024,Q3,Austin,Central Texas,Data Centers,Hyperscale,Meta,Data Center Capacity,115,MW,53.3,3,115,1520,1680,0,48,72,AI Research labs
+2024,Q3,Austin,Central Texas,Renewables,Solar,Tesla Energy,Renewable Generation,750,MW,44.2,0,0,580,820,185,100,0,Utility-scale deployment
+2024,Q3,Dallas,North Texas,AI Industry,GPU Computing,Nvidia,Data Center Capacity,120,MW,118.2,3,120,2280,3950,0,62,90,GB200 superchips
+2024,Q3,Dallas,North Texas,Financial Tech,AI Trading,Multiple Players,GDP Contribution,0,MW,48.5,0,0,2890,4650,625,0,0,Quant AI strategies
+2024,Q3,San Antonio,South Texas,Data Centers,Edge Computing,Multiple Operators,Data Center Capacity,48,MW,50.0,4,48,620,890,58,52,74,5G edge deployment
+2024,Q3,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,3950,MW,27.4,0,0,1020,578,0,100,0,Peak capacity
+2024,Q3,South Padre Island,Coastal Texas,Energy Sectors,Aerospace,SpaceX,GDP Contribution,0,MW,55.1,0,0,485,1580,1124,0,0,Orbital launches
+2024,Q3,Houston,Gulf Coast,Energy Sectors,Energy Tech,Multiple Players,GDP Contribution,0,MW,22.8,0,0,11500,10200,1485,42,0,Carbon capture AI
+2024,Q4,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,190,MW,81.0,7,190,3120,7850,528,72,86,o1 model training
+2024,Q4,Austin,Central Texas,Data Centers,Hyperscale,Oracle,Data Center Capacity,225,MW,45.2,8,225,2180,2480,0,58,78,Sovereign cloud
+2024,Q4,Dallas,North Texas,AI Industry,AI Infrastructure,Microsoft,Data Center Capacity,205,MW,64.0,6,205,4380,9200,568,62,88,Copilot infrastructure
+2024,Q4,Dallas,North Texas,Data Centers,Hyperscale,Meta,Data Center Capacity,125,MW,83.8,3,125,1680,1850,0,48,82,Llama 4 preparation
+2024,Q4,San Antonio,South Texas,AI Industry,Defense AI,Multiple Players,GDP Contribution,0,MW,52.8,0,0,1080,2150,245,0,0,Year-end contracts
+2024,Q4,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,4200,MW,29.2,0,0,1150,612,0,100,0,Winter records
+2024,Q4,South Padre Island,Coastal Texas,AI Industry,Aerospace AI,SpaceX,Data Center Capacity,42,MW,50.0,2,42,580,1950,1380,42,68,Mission control AI
+2024,Q4,Houston,Gulf Coast,AI Industry,Energy AI,Multiple Players,VC Funding,0,MW,0,0,0,0,11800,1842,0,0,Record funding year
+2025,Q1,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,245,MW,107.6,9,245,3850,9200,685,75,89,AGI research facility
+2025,Q1,Austin,Central Texas,Data Centers,Hyperscale,Oracle,Data Center Capacity,280,MW,60.0,10,280,2820,3050,0,65,81,Multi-cloud AI hub
+2025,Q1,Austin,Central Texas,Renewables,Solar,Tesla Energy,Renewable Generation,920,MW,48.4,0,0,720,980,245,100,0,Grid-scale batteries
+2025,Q1,Dallas,North Texas,AI Industry,AI Infrastructure,Microsoft,Data Center Capacity,265,MW,82.8,8,265,5480,11200,758,68,90,Phi-4 deployment
+2025,Q1,Dallas,North Texas,AI Industry,GPU Computing,Nvidia,Data Center Capacity,180,MW,130.8,5,180,3280,5450,0,72,94,Blackwell architecture
+2025,Q1,San Antonio,South Texas,Data Centers,Enterprise,Microsoft,Data Center Capacity,82,MW,41.4,3,82,1180,1520,98,65,78,Hybrid cloud growth
+2025,Q1,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,4680,MW,30.7,0,0,1380,665,0,100,0,Offshore planning
+2025,Q1,South Padre Island,Coastal Texas,Energy Sectors,Rocket Fuel Production,SpaceX,Industrial Capacity,52,MW,62.5,2,52,680,2450,1685,48,72,Mars mission prep
+2025,Q1,Houston,Gulf Coast,Energy Sectors,Energy Tech,Multiple Players,GDP Contribution,0,MW,28.4,0,0,13800,14200,2184,48,0,Energy transition AI
+2025,Q2,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,295,MW,107.7,11,295,4580,10800,842,78,91,Frontier models
+2025,Q2,Austin,Central Texas,Data Centers,Hyperscale,Oracle,Data Center Capacity,320,MW,64.1,12,320,3420,3680,0,68,83,Database AI features
+2025,Q2,Austin,Central Texas,Financial Tech,Payment Processing,Multiple Players,AI Employment,0,Count,68.5,0,0,0,2950,485,0,0,Real-time fraud AI
+2025,Q2,Dallas,North Texas,AI Industry,AI Infrastructure,Microsoft,Data Center Capacity,315,MW,87.5,10,315,6480,13200,945,72,92,Windows AI integration
+2025,Q2,Dallas,North Texas,Data Centers,Hyperscale,Meta,Data Center Capacity,175,MW,84.2,5,175,2380,2650,0,55,85,AR/VR AI compute
+2025,Q2,San Antonio,South Texas,AI Industry,Defense AI,Multiple Players,AI Employment,0,Count,65.8,0,0,0,2880,368,0,0,Autonomous warfare
+2025,Q2,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,4950,MW,32.0,0,0,1520,698,0,100,0,Export to Mexico
+2025,Q2,South Padre Island,Coastal Texas,AI Industry,Aerospace AI,SpaceX,AI Employment,0,Count,72.2,0,0,0,2850,2124,0,0,Starship AI systems
+2025,Q2,Houston,Gulf Coast,AI Industry,Energy AI,Multiple Players,AI Employment,0,Count,52.6,0,0,0,16800,2685,0,0,Drilling optimization
+2025,Q3,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,350,MW,112.1,13,350,5480,12500,1024,82,93,Multimodal AI training
+2025,Q3,Austin,Central Texas,Data Centers,Hyperscale,Meta,Data Center Capacity,165,MW,43.5,5,165,2180,2450,0,58,80,AI content moderation
+2025,Q3,Austin,Central Texas,Renewables,Solar,Tesla Energy,Renewable Generation,1150,MW,53.3,0,0,920,1180,325,100,0,Virtual power plant
+2025,Q3,Dallas,North Texas,AI Industry,GPU Computing,Nvidia,Data Center Capacity,255,MW,112.5,7,255,4680,7850,0,78,96,Rubin platform
+2025,Q3,Dallas,North Texas,Financial Tech,AI Trading,Multiple Players,GDP Contribution,0,MW,62.5,0,0,4280,6850,982,0,0,Neural trading networks
+2025,Q3,San Antonio,South Texas,Data Centers,Edge Computing,Multiple Operators,Data Center Capacity,72,MW,50.0,6,72,920,1280,88,62,80,6G preparation
+2025,Q3,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,5280,MW,33.7,0,0,1720,738,0,100,0,Hydrogen production
+2025,Q3,South Padre Island,Coastal Texas,Energy Sectors,Aerospace,SpaceX,GDP Contribution,0,MW,78.4,0,0,850,3450,2685,0,0,Moon base logistics
+2025,Q3,Houston,Gulf Coast,Energy Sectors,Energy Tech,Multiple Players,GDP Contribution,0,MW,32.5,0,0,15800,18200,3248,55,0,Climate tech unicorns
+2025,Q4,Austin,Central Texas,AI Industry,AI Training,OpenAI,Data Center Capacity,420,MW,121.1,15,420,6580,14800,1285,85,95,AGI capabilities
+2025,Q4,Austin,Central Texas,Data Centers,Hyperscale,Oracle,Data Center Capacity,385,MW,71.1,15,385,4520,4680,0,75,86,Autonomous database
+2025,Q4,Dallas,North Texas,AI Industry,AI Infrastructure,Microsoft,Data Center Capacity,395,MW,92.7,12,395,8280,16800,1248,78,94,AI-first data centers
+2025,Q4,Dallas,North Texas,Data Centers,Hyperscale,Meta,Data Center Capacity,225,MW,80.0,7,225,3280,3680,0,62,88,Metaverse compute
+2025,Q4,San Antonio,South Texas,AI Industry,Defense AI,Multiple Players,GDP Contribution,0,MW,78.5,0,0,1680,3850,524,0,0,AI weapons systems
+2025,Q4,Panhandle,West Texas,Renewables,Wind,Multiple Operators,Renewable Generation,5650,MW,34.5,0,0,1980,785,0,100,0,Record year capacity
+2025,Q4,South Padre Island,Coastal Texas,AI Industry,Aerospace AI,SpaceX,Data Center Capacity,68,MW,61.9,3,68,1050,4250,3284,58,78,Autonomous spacecraft
+2025,Q4,Houston,Gulf Coast,AI Industry,Energy AI,Multiple Players,VC Funding,0,MW,0,0,0,0,21500,4528,0,0,AI energy revolution
