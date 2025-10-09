@@ -22,6 +22,8 @@ Every Tuesday and Friday for 12 weeks, I analyze key metrics from major Texas en
 | 6    | [Texas Data Centers — AI and Petabyte Scale.](./weekthree) [Tableau](https://tinyurl.com/mry3bm5x) |Newer AI facilities are MORE sustainable than legacy infrastructure. This contradicts the narrative that AI expansion = environmental disaster| Sept 2025|
 | 7    | [The $16B Texas Secret Nobody's Talking About](./weekfour) [Tableau](https://tinyurl.com/bdd6umzw) |I mapped $48B in Texas VC funding by geography and sector. The result? South Padre Island is getting MORE venture capital than most major metros.| Oct 2025|
 | 8    | [The real Texas GDP impact?](./weekfour) [Tableau](https://lnkd.in/g56aBYGS) |The Future Isn't AI OR Traditional Tech. It's AI Integrated Into Everything Else. | Oct 2025|
+| 9    | [Texas Building The AI Backbone](./weelfive) [Tableau](https://tinyurl.com/4bepbhw8) |Texas isn't building space infrastructure OR AI infrastructure. It's building infrastructure where they're the same thing. | Oct 2025|
+| 10   | [When The Grid Goes Galatic](./weekfive) [Tableau](https://tinyurl.com/4tb74apd) | The next grid crisis won't start in Houston. It'll start at a launch pad.| Oct 2025|
 
 *Full 24-chart series completing December 2025*
  
