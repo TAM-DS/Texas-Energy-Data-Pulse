@@ -24,7 +24,8 @@ Every Tuesday and Friday for 12 weeks, I analyze key metrics from major Texas en
 | 8    | [The real Texas GDP impact?](./weekfour) [Tableau](https://lnkd.in/g56aBYGS) |The Future Isn't AI OR Traditional Tech. It's AI Integrated Into Everything Else. | Oct 2025|
 | 9    | [Texas Building The AI Backbone](./weelfive) [Tableau](https://tinyurl.com/4bepbhw8) |Texas isn't building space infrastructure OR AI infrastructure. It's building infrastructure where they're the same thing. | Oct 2025|
 | 10   | [When The Grid Goes Galatic](./weekfive) [Tableau](https://tinyurl.com/4tb74apd) | The next grid crisis won't start in Houston. It'll start at a launch pad.| Oct 2025|
-
+| 11   | [Texas Space Infrastructure AI Integration vs. Launch & Project Activity](./weeksix) [Tableau](https://tinyurl.com/2k7w2axw) | The race to orbit isn't just about rockets-it's about compute | Oct 2025|
+| 12   | [When The Grid Goes Galatic](./weekfive) [Tableau](https://tinyurl.com/4tb74apd) | The next grid crisis won't start in Houston. It'll start at a launch pad.| Oct 2025|
 *Full 24-chart series completing December 2025*
  
 ## 🔍 What You'll Find Here
