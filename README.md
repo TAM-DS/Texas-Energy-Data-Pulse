@@ -25,7 +25,8 @@ Every Tuesday and Friday for 12 weeks, I analyze key metrics from major Texas en
 | 9    | [Texas Building The AI Backbone](./weelfive) [Tableau](https://tinyurl.com/4bepbhw8) |Texas isn't building space infrastructure OR AI infrastructure. It's building infrastructure where they're the same thing. | Oct 2025|
 | 10   | [When The Grid Goes Galatic](./weekfive) [Tableau](https://tinyurl.com/4tb74apd) | The next grid crisis won't start in Houston. It'll start at a launch pad.| Oct 2025|
 | 11   | [Texas Space Infrastructure AI Integration vs. Launch & Project Activity](./weeksix) [Tableau](https://tinyurl.com/2k7w2axw) | The race to orbit isn't just about rockets-it's about compute | Oct 2025|
-| 12   | [When The Grid Goes Galatic](./weekfive) [Tableau](https://tinyurl.com/4tb74apd) | The next grid crisis won't start in Houston. It'll start at a launch pad.| Oct 2025|
+| 12   | [The Texas Cyber Weakness Index Part 1](./weeksix) [Tableau](https://tinyurl.com/yx2d2b4p) | How many unlocked doors exist in your house-and who's trying the handles?| Oct 2025|
+| 13   | [The Texas Cyber Weakness Index Part 2](./weeksix) [Tableau](https://tinyurl.com/yehyxd42) | The cascade effect, when one system is breached, the dominoes fall fast.| Oct 2025|
 *Full 24-chart series completing December 2025*
  
 ## 🔍 What You'll Find Here
