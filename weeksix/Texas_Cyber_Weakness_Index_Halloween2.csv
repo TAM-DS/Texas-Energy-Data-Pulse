@@ -1,0 +1,26 @@
+Region,Data Center Count,Avg Latency (ms),Backup Power Hours,Cyber Readiness Score (0-100),Outage Risk Level (1-5),Attack Surface Index,Recovery Time (hrs),Notes
+Dallas,14,43.8,28,82.8,3,52.1,7,Legacy systems nearing end of life
+Austin,31,22,28,61.1,2,50.2,23,Moderate redundancy with aging backups
+San Antonio,30,31.7,49,81.4,2,42.3,5,Cross-border exposure and low redundancy
+Houston,37,41.4,37,51.9,2,58.4,19,Strong core but high target density
+Lubbock,57,29.4,57,63.8,3,39.8,14,Moderate redundancy with aging backups
+Laredo,33,33.6,38,68.8,5,83.2,19,Strong core but high target density
+Abilene,10,39.6,47,82.2,2,65.5,16,Well-defended but energy-intensive
+Midland,48,37.9,57,73,2,54.4,17,Moderate redundancy with aging backups
+Odessa,10,28.8,46,67.6,5,80.1,18,Legacy systems nearing end of life
+Amarillo,40,51.7,23,59.1,4,88.3,18,Strong core but high target density
+Waco,55,35.4,26,85.8,5,39.6,21,Legacy systems nearing end of life
+College Station,31,53,33,89.7,5,61.1,11,Sparse network coverage in rural zone
+El Paso,40,25.5,41,84.8,5,73.8,23,Legacy systems nearing end of life
+Tyler,60,42.2,39,48.5,2,88.5,17,Strong core but high target density
+Killeen,31,31.6,28,89.6,3,66.2,16,Cross-border exposure and low redundancy
+Corpus Christi,55,22.3,33,70.5,2,88.4,11,Cross-border exposure and low redundancy
+Plano,14,24.1,47,64.3,3,71.2,12,Rapid recovery framework in place
+Irving,27,40.6,18,73.9,1,48.5,6,Rapid recovery framework in place
+Frisco,53,51.6,57,71.2,1,64.5,22,Strong core but high target density
+Round Rock,33,37,18,50.7,1,42.6,21,Moderate redundancy with aging backups
+McKinney,55,38,27,62,3,80.3,6,Rapid recovery framework in place
+Arlington,13,52.5,48,46.7,3,53.1,24,Legacy systems nearing end of life
+Beaumont,58,27.2,19,70.7,5,56.6,16,Moderate redundancy with aging backups
+The Woodlands,12,46.4,44,59.2,2,55.4,7,Cross-border exposure and low redundancy
+Brownsville,35,50.7,51,63.1,1,52.8,19,Strong core but high target density
