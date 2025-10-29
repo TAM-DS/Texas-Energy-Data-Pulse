@@ -27,7 +27,7 @@ Every Tuesday and Friday for 12 weeks, I analyze key metrics from major Texas en
 | 11   | [Texas Space Infrastructure AI Integration vs. Launch & Project Activity](./weeksix) [Tableau](https://tinyurl.com/2k7w2axw) | The race to orbit isn't just about rockets-it's about compute | Oct 2025|
 | 12   | [The Texas Cyber Weakness Index Part 1](./weeksix) [Tableau](https://tinyurl.com/yx2d2b4p) | How many unlocked doors exist in your house-and who's trying the handles?| Oct 2025|
 | 13   | [The Texas Cyber Weakness Index Part 2](./weeksix) [Tableau](https://tinyurl.com/yehyxd42) | The cascade effect, when one system is breached, the dominoes fall fast.| Oct 2025|
-| 14   | [The Agentic Risk Paradox](./weekseven) [Tableau](https://tinyurl.com/4nczcz84) | We are building AI that can think for itself on infrastructure that can't protect itself| Nov 2025|
+| 14   |  [](./weekseven) [Tableau]() | TBA| Nov 2025|
 | 15   | [](./weekseven) [Tableau]() | TBA| Nov 2025|
 *Full 24-chart series completing December 2025*
  
