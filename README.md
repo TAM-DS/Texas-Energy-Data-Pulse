@@ -28,7 +28,7 @@ Every Tuesday and Friday for 12 weeks, I analyze key metrics from major Texas en
 | 12   | [The Texas Cyber Weakness Index Part 1](./weeksix) [Tableau](https://tinyurl.com/yx2d2b4p) | How many unlocked doors exist in your house-and who's trying the handles?| Oct 2025|
 | 13   | [The Texas Cyber Weakness Index Part 2](./weeksix) [Tableau](https://tinyurl.com/yehyxd42) | The cascade effect, when one system is breached, the dominoes fall fast.| Oct 2025|
 | 14   |  [Two Regions. 30 GW. One Future](./weekseven2) [Tableau](https://tinyurl.com/u8xu45dz) | By 2030: - Texas: 19.3 GW across 30 facilities - Gulf: 10+ GW across 3 mega-hubs | Nov 2025|
-| 15   | [](./weekseven2) [Tableau]() | TBA| Nov 2025|
+| 15   | [Power Economics — Efficiency per Dollar.](./weekseven2) [Tableau](https://tinyurl.com/4ru337zw) |ROI Efficiency = (Power Efficiency / Cost per MW) × 100 Translation: Every $1 invested returns $8 in AI capability.| Nov 2025|
 *Full 24-chart series completing December 2025*
  
 ## 🔍 What You'll Find Here
