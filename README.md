@@ -1,6 +1,7 @@
 # Texas Energy Data Pulse
 
-*Bi-weekly data insights tracking digital transformation across Texas energy companies*
+*A data-driven exploration of how power becomes intelligence — across Texas, the Gulf, and orbit.
+20 dashboards. One mission: turning efficiency into alpha.*
 
 ![Energy Data Analytics](https://img.shields.io/badge/Focus-Energy%20Analytics-orange) ![Update Frequency](https://img.shields.io/badge/Updates-Bi--weekly-blue) ![Data Driven](https://img.shields.io/badge/Approach-Data%20Driven-green)
 
@@ -10,6 +11,8 @@ What began as a Texas Energy dashboard series has evolved into a global intellig
 
 Each dashboard in this repository visualizes a different dimension of transformation:
 from megawatts to teraflops, from on-prem to orbit, from human oversight to autonomous systems.
+
+## 🧩 Each dashboard is interconnected — collectively mapping how energy, compute, and intelligence form the backbone of the modern economy.
 
 # 🗂️ Complete Analysis Index
 
@@ -31,7 +34,7 @@ from megawatts to teraflops, from on-prem to orbit, from human oversight to auto
 | 14   |  [Two Regions. 30 GW. One Future](./weekseven2) [Tableau](https://tinyurl.com/u8xu45dz) | By 2030: - Texas: 19.3 GW across 30 facilities - Gulf: 10+ GW across 3 mega-hubs | Nov 2025|
 | 15   | [Power Economics — Efficiency per Dollar.](./weekseven2) [Tableau](https://tinyurl.com/4ru337zw) |ROI Efficiency = (Power Efficiency / Cost per MW) × 100 Translation: Every $1 invested returns $8 in AI capability.| Nov 2025|
 | 16   | [ The Convergence Curve — Where Data Maturity Meets AI Power.](./weekseven2) [Tableau](https://tinyurl.com/wm95rws5) |As global infrastructure evolves. The Convergence Curve reveals how balanced ecosystems outperform brute scale.| Nov 2025|
-*Full 20-chart series completing Nobember 2025*
+*Full 20-chart series completing November 2025*
  
 ## 🔍 What You'll Find Here
 
