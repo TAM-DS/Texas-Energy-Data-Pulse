@@ -35,7 +35,7 @@
 | 14   |  [Two Regions. 30 GW. One Future](./weekseven2) [Tableau](https://tinyurl.com/u8xu45dz) | By 2030: - Texas: 19.3 GW across 30 facilities - Gulf: 10+ GW across 3 mega-hubs | Nov 2025|
 | 15   | [Power Economics — Efficiency per Dollar.](./weekseven2) [Tableau](https://tinyurl.com/4ru337zw) |ROI Efficiency = (Power Efficiency / Cost per MW) × 100 Translation: Every $1 invested returns $8 in AI capability.| Nov 2025|
 | 16   | [ The Convergence Curve — Where Data Maturity Meets AI Power.](./weekseven2) [Tableau](https://tinyurl.com/wm95rws5) |As global infrastructure evolves. The Convergence Curve reveals how balanced ecosystems outperform brute scale.| Nov 2025|
-| 17   | [Data centers will now compete on orbital tiers ](./week8) [Tableau](https://tinyurl.com/36zrpuxs) |Between 2026 and 2030, over $120 billion in infrastructure investment will migrate from Earth-bound data centers to orbit.  .| Nov 2025|
+| 17   | [Data Centers Will Now Compete on Orbital Tiers ](./week8) [Tableau](https://tinyurl.com/36zrpuxs) |Between 2026 and 2030, over $120 billion in infrastructure investment will migrate from Earth-bound data centers to orbit.  .| Nov 2025|
 
 
 
