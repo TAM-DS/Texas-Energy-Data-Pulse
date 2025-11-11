@@ -1,7 +1,7 @@
 # 🌎 Texas Energy Data Pulse → The Intelligence Frontier
 
 **A data-driven exploration of how power becomes intelligence — across Texas, the Gulf-Saudi Arabia, UAE and Qatar, and orbit.
-20 dashboards. One mission: turning efficiency into alpha.**
+19 dashboards. One mission: turning efficiency into alpha.**
 
 
 ![Energy Data Analytics](https://img.shields.io/badge/Focus-Energy%20Analytics-orange) ![Update Frequency](https://img.shields.io/badge/Updates-Bi--weekly-blue) ![Data Driven](https://img.shields.io/badge/Approach-Data%20Driven-green)
