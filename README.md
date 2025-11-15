@@ -38,7 +38,7 @@
 | 17   | [Data Centers Will Now Compete on Orbital Tiers. ](./week8)  [Tableau](https://tinyurl.com/36zrpuxs) |Between 2026 and 2030, over $120 billion in infrastructure investment will migrate from Earth-bound data centers to orbit.  .| Nov 2025|
 | 18   | [Where Capital Learns to Think ](./week9)  [Tableau](https://tinyurl.com/yc3bae7f) |From Texas to orbit, cognitive systems now generate measurable returns. | Nov 2025|
 | 19   | [Feedback loop Layer Final Path Node](./week9)  [Tableau](https://tinyurl.com/4xw2uyvb) |Power once scaled linearly. Intelligence now scales cyclically. | Nov 2025|
-
+| 20   | [Data Goes To Space](./)  [Tableau](https://tinyurl.com/yps6x925) |Full-stack simulation of compute leaving Earth's surface. | Dec 2025|
 
 
 ## 🔍 What You'll Find Here
