@@ -1,0 +1,11 @@
+Orbit_ID,Altitude_km,Solar_Input_MWh,Thermal_Radiation_kW,AI_Autonomy_Index,Latency_ms,Energy_Storage_Efficiency,Launch_Cost_MillionUSD,Carbon_Offset_EQ,Origin,Status
+TX1-ORB-001,400,10.75,1.86,0.63,17,0.76,62.6,-0.22,TX_Pad_One,Deployed
+TX1-ORB-002,4355.55,15.35,2.53,0.64,53.7,0.77,78,-0.29,TX_Pad_One,Deployed
+TX1-ORB-003,8311.11,22.08,3.41,0.69,68.8,0.79,96.8,-0.41,TX_Pad_One,Deployed
+TX1-ORB-004,12266.66,28.95,3.43,0.7,88,0.81,128.2,-0.49,TX_Pad_One,Testing
+TX1-ORB-005,16222.22,31.87,4.15,0.76,121.9,0.82,152.7,-0.47,TX_Pad_One,Deployed
+TX1-ORB-006,20177.77,37.43,5.16,0.82,136.1,0.84,173,-0.52,TX_Pad_One,Testing
+TX1-ORB-007,24133.33,45.7,5.7,0.84,167.7,0.87,180,-0.67,TX_Pad_One,Operational
+TX1-ORB-008,28088.88,50.04,6.76,0.91,181.3,0.9,205.3,-0.69,TX_Pad_One,Operational
+TX1-ORB-009,32044.44,53.74,7.06,0.93,208.9,0.91,231.5,-0.8,TX_Pad_One,Operational
+TX1-ORB-010,36000,60.81,7.58,0.98,241,0.91,257.8,-0.93,TX_Pad_One,Deployed
